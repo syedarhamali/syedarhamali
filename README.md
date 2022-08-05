@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning **MERN** Stack Technology.
 - 🔭 I’m currently working on **some practice projects**.
 - 😄 I'm a Certified Web Software and Mobile App developer.
-- 📫 How to reach me:<a href="mailto:syedmuhammadarhamali1@gmail.com">syedmuhammadarhamali1@gmail.com </a>
+- 📫 How to reach me: <a href="mailto:syedmuhammadarhamali1@gmail.com">syedmuhammadarhamali1@gmail.com </a>
 
 ## 🔧 Technologies & Tools
 
