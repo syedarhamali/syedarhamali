@@ -25,13 +25,13 @@
 
 ## Follow me
 
-[![Linkedin: syedmuhammadarhamali](https://img.shields.io/badge/-syedmuhammadarhamali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/syedmuhammadarhamali)](https://www.linkedin.com/in/syedmuhammadarhamali/)
+![![Linkedin: syedmuhammadarhamali](https://img.shields.io/badge/-syedmuhammadarhamali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/syedmuhammadarhamali)](https://www.linkedin.com/in/syedmuhammadarhamali/)
 
-[![DockerHub:syedarhamali](https://img.shields.io/badge/-syedarhamali-white?style=flat-square&logo=docker&logoColor=blue&link=hub.docker.com/u/syedarhamali)](https://hub.docker.com/u/syedarhamali)
+![![DockerHub:syedarhamali](https://img.shields.io/badge/-syedarhamali-white?style=flat-square&logo=docker&logoColor=blue&link=hub.docker.com/u/syedarhamali)](https://hub.docker.com/u/syedarhamali)
 
-[![Twitter:Oyeee_arham](https://img.shields.io/badge/-Oyeee_arham-white?style=flat-square&logo=twitter&logoColor=blue&link=twitter.com/Oyeee_arham)](https://twitter.com/Oyeee_arham)
+![![Twitter:Oyeee_arham](https://img.shields.io/badge/-Oyeee_arham-white?style=flat-square&logo=twitter&logoColor=blue&link=twitter.com/Oyeee_arham)](https://twitter.com/Oyeee_arham)
 
-[![facebook: Arham Ali](https://img.shields.io/badge/-arhammmmmmmm-blue?style=flat-square&logo=facebook&logoColor=white&link=facebook.com/arhammmmmmmm)](https://www.facebook.com/arhammmmmmmm/)
+![![facebook: Arham Ali](https://img.shields.io/badge/-arhammmmmmmm-blue?style=flat-square&logo=facebook&logoColor=white&link=facebook.com/arhammmmmmmm)](https://www.facebook.com/arhammmmmmmm/)
 <!--
 **syedarhamali/syedarhamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
