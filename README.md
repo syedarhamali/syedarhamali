@@ -17,6 +17,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-c14438.svg?logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-docker-white?style=flat-square&logo=docker)
+![kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
 
 
 
