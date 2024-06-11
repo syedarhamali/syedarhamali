@@ -18,8 +18,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-docker-white?style=flat-square&logo=docker)
 ![kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
-
-
+![Nextjs](https://img.shields.io/badge/-nextjs-black?style=flat-square&logo=nextjs)
+![Typescript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
 
 
 ## Follow me
