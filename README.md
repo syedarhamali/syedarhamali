@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **MERN** and **DevOps** Technologies.
 - 😄 I'm a Certified Web Software and Mobile Application developer.
 - 📫 How to reach me: <a href="mailto:arhamali63@gmail.com">arhamali63@gmail.com </a>
-- ✨ Checkout my Portfolio: https://portfolio-arham.vercel.app
+- ✨ Checkout my Portfolio: https://syedmuhammadarhamali.com
 
 ## 🔧 Technologies & Tools
 
