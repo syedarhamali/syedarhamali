@@ -51,14 +51,10 @@ portfolio: https://syedmuhammadarhamali.com
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedarhamali&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedarhamali&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
