@@ -2,7 +2,11 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arham%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Trainer&descAlignY=52&descAlign=50" width="100%"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=MERN+Stack+Developer+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+Kubernetes+%E2%98%81%EF%B8%8F;Certified+Web+%26+Mobile+App+Developer+%F0%9F%93%B1)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+Kubernetes;Certified+Web+%26+Mobile+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,20 +55,15 @@ portfolio: https://syedmuhammadarhamali.com
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedarhamali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarhamali&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedarhamali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedarhamali&theme=tokyonight&hide_border=true" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarhamali&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedarhamali&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🤝 Connect With Me
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedmuhammadarhamali.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadarhamali/)
@@ -72,8 +71,6 @@ portfolio: https://syedmuhammadarhamali.com
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/syedmuhammadarhamalii/)
 [![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/syedarhamali)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamali63@gmail.com)
-
-</div>
 
 ---
 
